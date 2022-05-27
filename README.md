@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffrey840
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... Javasript
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jeffreycabrera93@gmail.com
 
