@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeffrey Cabrera
+- 👋 Hi, I’m Jeffrey Cabrera
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
