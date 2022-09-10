@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jeffrey Cabrera
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Frontend web development 
 - 📫 How to reach me ... jeffreycabrera93@gmail.com
 
 <!---
