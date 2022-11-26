@@ -37,6 +37,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffrey840)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact)](https://github.com/jeffrey840)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&langs_count=8)](https://github.com/jeffrey840/github-readme-stats)
 
 <div>
           
