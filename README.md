@@ -32,11 +32,13 @@
 <br>
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeffrey840)](https://github.com/jeffrey840)
+
+ 
+[![jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffrey840&theme=PA_1)](https://github.com/jeffrey840)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffrey840)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact)](https://github.com/jeffrey840)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact&theme=PA_1)](https://github.com/jeffrey840)
  
 <div>
           
