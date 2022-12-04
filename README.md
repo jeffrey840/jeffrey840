@@ -1,7 +1,10 @@
  
  <div align="center">
  
- 👋 Hi, I’m Jeffrey Cabrera
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=30&pause=1000&color=2A5EDE&center=true&vCenter=true&width=435&lines=Hello%2C+There+👋!;Nice+to+meet+you!)](https://git.io/typing-svg)
+ 
+ 
+ I’m Jeffrey Cabrera
           
  👀 I’m interested in ...Frontend web development 
           
@@ -21,26 +24,14 @@
           
 <img alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
           
-<br>          
+<br><br>
           
-<!-- <p>
-          <a href="https://www.linkedin.com/in/jeffrey-f-cabrera-/">
-<img alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          </a>
-</p> -->
-
-<br>
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffrey840&theme=horizon&border_radius=5&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=2A5EDE&fire=396D76&currStreakNum=396D76&sideNums=396D76&currStreakLabel=2A5EDE&sideLabels=2A5EDE&dates=396D76)](https://git.io/streak-stats) ![jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey840&show_icons=true&theme=transparent)
  
-[![jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffrey840&theme=PA_1)](https://github.com/jeffrey840)
+ <br>
+ 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeffrey840)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact&theme=PA_1)](https://github.com/jeffrey840)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact&theme=transparent)](https://github.com/jeffrey840)
  
 <div>
-          
-          
           
