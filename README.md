@@ -31,7 +31,7 @@
  <br>
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact&theme=transparent)](https://github.com/jeffrey840)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&layout=compact&theme=transparent&env=PAT_1)](https://github.com/jeffrey840)
  
 <div>
           
