@@ -1,11 +1,12 @@
  
  <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=30&pause=1000&color=2A5EDE&center=true&vCenter=true&width=435&lines=Hello%2C+There+👋!;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=33&pause=1000&color=36BCF7FF&center=true&random=false&width=435&lines=welcome+to+my+github+page+)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=29&pause=1000&color=0270AD&center=true&random=true&width=435&lines=%F0%9F%A4%A9%F0%9F%98%8E+%F0%9F%98%B1%F0%9F%91%80%F0%9F%90%B6%F0%9F%91%91%F0%9F%92%BB%F0%9F%92%B0%F0%9F%87%BA%F0%9F%87%B8%F0%9F%8D%95%F0%9F%8C%AE%F0%9F%8D%BA)](https://git.io/typing-svg)
  
- 
- I’m Jeffrey Cabrera
-          
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&pause=1000&center=true&random=false&width=435&lines=I'm+Jeffrey+cabrera)](https://git.io/typing-svg)
+    
  👀 I’m interested in ...Frontend web development 
           
  📫 How to reach me ... jeffreycabrera93@gmail.com
