@@ -11,7 +11,6 @@
 ### 🧰 Languages and Tools
  
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,java,mysql,spring,eclipse,bootstrap,react,idea,aws,py,vscode&perline=5" />
