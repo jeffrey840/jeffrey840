@@ -16,7 +16,7 @@
 </p>
      
 <br>
-          
+        
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffrey840&theme=horizon&border_radius=5&background=FF2D2D00&border=FFFFFF&stroke=FFFFFF&ring=2A5EDE&fire=396D76&currStreakNum=396D76&sideNums=396D76&currStreakLabel=2A5EDE&sideLabels=2A5EDE&dates=396D76)](https://git.io/streak-stats) 
  
  <br>
