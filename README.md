@@ -18,7 +18,7 @@
 <br>
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffrey840&theme=horizon&border_radius=5&background=FF2D2D00&border=FFFFFF&stroke=FFFFFF&ring=2A5EDE&fire=396D76&currStreakNum=396D76&sideNums=396D76&currStreakLabel=2A5EDE&sideLabels=2A5EDE&dates=396D76)](https://git.io/streak-stats) 
- 
+
  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey840&hide=python,cython,c,xslt,c%2B%2B,jinja&layout=compact&theme=transparent&env=PAT_1)](https://github.com/jeffrey840)
